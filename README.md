@@ -1,4 +1,4 @@
-# Stack Rush — Legal Pages
+# Zigspire — Legal Pages
 
 Public privacy policy and support pages for App Store Connect.
 

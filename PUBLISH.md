@@ -1,6 +1,6 @@
 # Publish to GitHub Pages
 
-This folder contains the public legal pages for **Stack Rush** (ASC: Stack Rush: Block Tower).
+This folder contains the public legal pages for **Zigspire** (ASC: Zigspire: Tower of Light).
 
 ## Enable GitHub Pages
 
